@@ -253,6 +253,15 @@ for (let h = 0; h < person.length; h++) {
       }
     }
 }
+// // !!! cara lain
+// for (let h = 0; h < person.length; h++) {
+//   for (let k = 0; k < person[h].name.length; k++) {
+//     if (person[h].name[k].toUpperCase() === "W") {
+//       console.log(person[h].name)
+//     }
+//   }
+// }
+
 
 // nomor 6
 console.log("----- Nomor 6 -----")
